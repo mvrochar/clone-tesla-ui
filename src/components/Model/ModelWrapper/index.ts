@@ -1,0 +1,1 @@
+export { ModelWrapper } from './ModelWrapper';
